@@ -2,10 +2,6 @@
   <img alt="" src="./baratie.logo.png"">
 </p>
 
-## Baratie
-
-Let's talk about food !
-
 ## <a name='TOC'>🐼 Summary</a>
 
 * [Rules](#rules)
