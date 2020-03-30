@@ -47,13 +47,6 @@ Before you get started, should take some time to read up on the following tools 
 
 This project is about visual profile for software engineer and **HAVE TO** be a **UNIVERSAL APP**, thats means work on desktop (yo [**Electron**](https://www.electronjs.org/), website and mobile;<br />
 
----
-
-You **HAVE TO** use for all web based applicaiton at least one **PWA** native features: `offline`, `notifications`, etc.
-
-You **CAN** use any ui.x libraries you want [ if interested, you can even create your own ]<br />
-You **CAN** use any front-end libraries you want.
-
 ## <a name='story'>🐨 Story</a>
 
 ### = Prelude
@@ -66,7 +59,7 @@ Here is an overview of the expected architecture:
 The reception **MUST** be started using the command line the following way:
 
 ```sh
-~/ts-baratie ❯❯❯ node baratie 2 5 2000
+~/ts-baratie ❯❯❯ yarn run 2 5 2000
 ```
 
 * The first parameter is a multiplier for the cooking time of the dish.
