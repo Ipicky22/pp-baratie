@@ -157,10 +157,10 @@ Within communication, dish are passing through, using the form of an opaque obje
 It **MUST** be possible to use operators pack and unpack on this type to serialize or to unserialize data
 
 You **MUST** manage the follwing dishes:
-* Takoyaki: Contains, octopus and gruyere. Baked in 1 sec * multiplier.
-* Katsudon: Contains rice, pork, gruyere, ham, mushrooms.Bakedin 2 secs * multiplier.
-* Udon: Contains noodle, pork, gruyere, steak. Bakedin 2 secs * multiplier.
-* Ramen: Contains noodle, chicken, gruyere, steak. Bakedin 2 secs * multiplier.
+* Takoyaki: Contains octopus and soja sauce. Baked in 1 sec * multiplier.
+* Katsudon: Contains rice, pork, eggs .Bakedin 2 secs * multiplier.
+* Udon: Contains noodle, pork, eggs. Bakedin 2 secs * multiplier.
+* Ramen: Contains noodle, chicken, eggs. Bakedin 2 secs * multiplier.
 * MatchaCookie: Contains dough, matcha, chocolate and chief love. Baked in 4 secs * multiplier.
 
 > You must ask yourself as early as possible how to represent time. This can save you lots oftime...
