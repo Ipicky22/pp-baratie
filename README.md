@@ -119,8 +119,7 @@ Moreover :
 * Cook love their work and are accountable for it. A cook **WILL NOT** prepare more than one dish at a
 time!
 * Kitchens communicate with the reception thanks to an IPC (choose the one to use wisely).
-* You **MUST** propose an object encapsulation for the choosen IPC you’re using. This encapsulation CAN
-offer overload for the operators << and >>.
+* You **MUST** propose an object encapsulation for the choosen IPC you’re using.
 * If a kitchen doesn’t work fo more than 5 seconds,this kitchen **MUST** close.
 * A kitchen possess a stock of ingredients that contains, when created, 5 units of each ingredient. The
 stock regenerate 1 units of each ingredients every N seconds. N being the number passed in the com- mand line at the start of the program.
