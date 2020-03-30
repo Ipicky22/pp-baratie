@@ -44,9 +44,6 @@ Before you get started, should take some time to read up on the following tools 
 - [Processes](https://nodejs.org/api/child_process.html)
 - [IPC aka Inter-processcommunication](https://en.wikipedia.org/wiki/Inter-process_communication)
 
-
-This project is about visual profile for software engineer and **HAVE TO** be a **UNIVERSAL APP**, thats means work on desktop (yo [**Electron**](https://www.electronjs.org/), website and mobile;<br />
-
 ## <a name='story'>🐨 Story</a>
 
 ### = Prelude
