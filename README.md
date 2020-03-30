@@ -72,9 +72,10 @@ Dish ordering **MUST** respect the following grammar:
 
 ```txt
 S := TYPE SIZE NUMBER [; TYPE SIZE NUMBER]*
-TYPE := [a..zA..Z]+
+TYPE := CHARACTER+
 SIZE := S|M|L|XL|XXL
 NUMBER := x[1..9][0..9]*
+CHARACTER := [a..zA..Z]
 ```
 
 Example with a valid grammar:<br />
