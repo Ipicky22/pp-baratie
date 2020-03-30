@@ -101,6 +101,8 @@ Kitchens possesses a predetermined number of cooks that is defined when the prog
 
 Cooks **MUST** be represented by threads. When a cook does not have a task, he **MUST** yield. Cooks start to work one after the other, when order arrives.
 
+> Take a look at ´worker_threads´
+
 These threads **MUST** be scheduled by a Thread Pool local to each kitchen.
 
 You **MUST** propose an object encapsulation for each of the following notions:
