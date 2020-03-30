@@ -161,7 +161,7 @@ You **MUST** manage the follwing dishes:
 * Katsudon: Contains rice, pork, gruyere, ham, mushrooms.Bakedin 2 secs * multiplier.
 * Udon: Contains noodle, pork, gruyere, steak. Bakedin 2 secs * multiplier.
 * Ramen: Contains noodle, chicken, gruyere, steak. Bakedin 2 secs * multiplier.
-* MatchaCookie: Contains rice, tomato, eggplant, goat cheese and chief love. Baked in 4 secs * multiplier.
+* MatchaCookie: Contains dough, matcha, chocolate and chief love. Baked in 4 secs * multiplier.
 
 > You must ask yourself as early as possible how to represent time. This can save you lots oftime...
 
