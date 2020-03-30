@@ -70,10 +70,12 @@ The reception **MUST** be an interactive shell with at least the following actio
 
 Dish ordering **MUST** respect the following grammar:
 
-S := TYPE SIZE NUMBER [; TYPE SIZE NUMBER]\*<br />
-TYPE := [a..zA..Z]+<br />
-SIZE := S|M|L|XL|XXL<br />
-NUMBER := x[1..9][0..9]\*<br />
+```txt
+S := TYPE SIZE NUMBER [; TYPE SIZE NUMBER]*
+TYPE := [a..zA..Z]+
+SIZE := S|M|L|XL|XXL
+NUMBER := x[1..9][0..9]*
+```
 
 Example with a valid grammar:<br />
 `Takoyaki M x2; Udon XL x1; MatchaCookie S x1`
